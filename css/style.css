@@ -9908,6 +9908,7 @@ header .d-extra{
   .d-cart-icon span {
     float: none;
     margin-left: 20px;
+    margin-top: -30px;
   }
 
   #mo-button-open {
@@ -10882,7 +10883,8 @@ header .d-extra{
         margin-bottom: 10px;
     }
     .contact-info i {
-        margin-right: 10px;
+        margin-right: 12px;
+        size: 30px;
     }
     .footer-links {
         list-style: none;
